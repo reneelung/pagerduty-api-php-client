@@ -1,2 +1,2 @@
-# pagerduty-api-php-client
-A PHP client for the PagerDuty REST API
+# PHPagerDuty
+A PHP client for the PagerDuty REST API. Hella WIP.
